@@ -2,7 +2,7 @@ body {
   margin: 0 auto;
   line-height: normal;
   font-family: "Bandschrift", sans-serif;
-  background-image: url(img/lines_background.png);
+  background-image: image(img/lines_background.png);
   background-color: #3D4142;
   background-repeat: no-repeat;
   background-position: center;
